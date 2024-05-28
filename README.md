@@ -24,6 +24,24 @@ GOOGLE QUERY SHEET
 SELECT* FROM Table 1
 WHERE CONDITION = MET
 
+![](bike sale dashboard.jpeg)
+GOOGLE QUERY SHEET
+
+SELECT* FROM Table 1
+WHERE CONDITION = MET
+
+![]
+
+
+
+
+
+
+
+
+
+
+
 
 
 
