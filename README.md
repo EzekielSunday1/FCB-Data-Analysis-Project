@@ -20,8 +20,10 @@ The primary source of data used here is a Data.sales
 
 ```
 GOOGLE QUERY SHEET
+
 SELECT* FROM Table 1
 WHERE CONDITION = MET
+
 
 
 
