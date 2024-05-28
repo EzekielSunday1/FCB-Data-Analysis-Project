@@ -30,7 +30,8 @@ GOOGLE QUERY SHEET
 SELECT* FROM Table 1
 WHERE CONDITION = MET
 
-![](bike sale dashboard.jpeg)
+
+![](WhatsApp Image 2024-05-28 at 6.45.35 PM.jpeg)
 
 
 
